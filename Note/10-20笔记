@@ -1,0 +1,8 @@
+HTML DOM 元素对象
+http://www.runoob.com/jsref/dom-obj-all.html
+HTML DOM innerHTML 属性
+定义和用法
+innerHTML 属性设置或返回表格行的开始和结束标签之间的 HTML。
+语法
+HTMLElementObject.innerHTML=text
+->>/JavaScriptMingriBook/Main/10实时显示系统时间.html

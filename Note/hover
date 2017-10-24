@@ -1,0 +1,4 @@
+a:link{} 未被访问
+a:visited{} 已被访问
+a:hover{} 鼠标悬浮在上面
+a:active{} 鼠标点中激活链接
